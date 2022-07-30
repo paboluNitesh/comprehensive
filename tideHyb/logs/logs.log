@@ -1,0 +1,191 @@
+[INFO ] 2022-07-28 10:46:05.778 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 10:46:05.803 [main] log4j-starting register test
+[INFO ] 2022-07-28 10:46:15.209 [main] log4j-register test passed
+[INFO ] 2022-07-28 10:46:15.215 [main] log4j-searchTest started
+[INFO ] 2022-07-28 10:46:16.600 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 10:46:16.603 [main] log4j-shopTest started
+[INFO ] 2022-07-28 10:46:17.975 [main] log4j-shopTest passed
+[INFO ] 2022-07-28 10:46:17.978 [main] log4j-stainTest started
+[INFO ] 2022-07-28 10:46:27.592 [main] log4j-stainTest passed
+[INFO ] 2022-07-28 10:46:27.594 [main] log4j-contactTest started
+[INFO ] 2022-07-28 10:46:27.785 [main] log4j-contactTest passed
+[INFO ] 2022-07-28 10:46:27.788 [main] log4j-loginTest started
+[INFO ] 2022-07-28 10:46:34.577 [main] log4j-loginTest passed
+[INFO ] 2022-07-28 10:46:34.579 [main] log4j-slideTest started
+[INFO ] 2022-07-28 10:46:34.721 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 10:46:34.723 [main] log4j-reviewTest started
+[INFO ] 2022-07-28 10:46:41.811 [main] log4j-reviewTest passed
+[INFO ] 2022-07-28 10:46:41.815 [main] log4j-footerTest started
+[INFO ] 2022-07-28 10:46:42.880 [main] log4j-footerTest passed
+[INFO ] 2022-07-28 10:46:42.883 [main] log4j-brandsTest started
+[INFO ] 2022-07-28 10:46:46.877 [main] log4j-brandsTest passed
+[INFO ] 2022-07-28 11:31:20.410 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 11:31:20.435 [main] log4j-searchTest started
+[INFO ] 2022-07-28 11:31:52.956 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 11:31:52.979 [main] log4j-starting register test
+[INFO ] 2022-07-28 11:31:59.316 [main] log4j-register test passed
+[INFO ] 2022-07-28 11:32:00.956 [main] log4j-searchTest started
+[INFO ] 2022-07-28 11:32:02.446 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 11:32:02.450 [main] log4j-shopTest started
+[INFO ] 2022-07-28 11:32:11.111 [main] log4j-shopTest passed
+[INFO ] 2022-07-28 11:32:11.114 [main] log4j-stainTest started
+[INFO ] 2022-07-28 11:32:18.895 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 11:32:22.162 [main] log4j-searchTest started
+[INFO ] 2022-07-28 11:32:23.551 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 11:38:43.175 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 11:38:47.042 [main] log4j-searchTest started
+[INFO ] 2022-07-28 11:38:51.115 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 11:41:28.590 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 11:41:31.061 [main] log4j-searchTest started
+[INFO ] 2022-07-28 11:41:35.023 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 13:33:42.593 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 13:33:42.618 [main] log4j-slideTest started
+[INFO ] 2022-07-28 13:33:53.024 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 13:33:53.077 [main] log4j-slideTest started
+[INFO ] 2022-07-28 13:33:53.316 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 13:33:53.355 [main] log4j-slideTest started
+[INFO ] 2022-07-28 13:34:09.731 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 13:34:12.851 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 13:34:25.274 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 13:34:25.293 [main] log4j-slideTest started
+[INFO ] 2022-07-28 13:34:47.381 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 14:14:47.146 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 14:14:47.173 [main] log4j-slideTest started
+[INFO ] 2022-07-28 14:15:11.536 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 14:27:14.103 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 14:27:14.130 [main] log4j-starting register test
+[INFO ] 2022-07-28 14:27:23.157 [main] log4j-searchTest started
+[INFO ] 2022-07-28 14:27:27.361 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 14:27:27.365 [main] log4j-shopTest started
+[INFO ] 2022-07-28 14:27:31.947 [main] log4j-shopTest passed
+[INFO ] 2022-07-28 14:27:31.950 [main] log4j-stainTest started
+[INFO ] 2022-07-28 14:27:32.340 [main] log4j-stainTest passed
+[INFO ] 2022-07-28 14:27:32.342 [main] log4j-contactTest started
+[INFO ] 2022-07-28 14:27:36.301 [main] log4j-contactTest passed
+[INFO ] 2022-07-28 14:27:36.303 [main] log4j-loginTest started
+[INFO ] 2022-07-28 14:27:43.772 [main] log4j-loginTest passed
+[INFO ] 2022-07-28 14:27:43.776 [main] log4j-slideTest started
+[INFO ] 2022-07-28 14:28:06.272 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 14:28:06.275 [main] log4j-reviewTest started
+[INFO ] 2022-07-28 14:28:19.923 [main] log4j-reviewTest passed
+[INFO ] 2022-07-28 14:28:19.926 [main] log4j-footerTest started
+[INFO ] 2022-07-28 14:28:21.405 [main] log4j-footerTest passed
+[INFO ] 2022-07-28 14:28:21.407 [main] log4j-brandsTest started
+[INFO ] 2022-07-28 14:28:37.202 [main] log4j-brandsTest passed
+[INFO ] 2022-07-28 22:58:36.456 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 22:58:36.483 [main] log4j-starting register test
+[INFO ] 2022-07-28 22:58:42.082 [main] log4j-register test passed
+[INFO ] 2022-07-28 22:58:43.570 [main] log4j-searchTest started
+[INFO ] 2022-07-28 22:58:46.501 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 22:58:46.504 [main] log4j-shopTest started
+[INFO ] 2022-07-28 22:58:58.610 [main] log4j-shopTest passed
+[INFO ] 2022-07-28 22:58:58.613 [main] log4j-stainTest started
+[INFO ] 2022-07-28 22:58:59.106 [main] log4j-stainTest passed
+[INFO ] 2022-07-28 22:58:59.108 [main] log4j-contactTest started
+[INFO ] 2022-07-28 22:59:02.534 [main] log4j-contactTest passed
+[INFO ] 2022-07-28 22:59:02.538 [main] log4j-loginTest started
+[INFO ] 2022-07-28 22:59:11.159 [main] log4j-loginTest passed
+[INFO ] 2022-07-28 22:59:11.162 [main] log4j-slideTest started
+[INFO ] 2022-07-28 22:59:31.669 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 22:59:31.671 [main] log4j-reviewTest started
+[INFO ] 2022-07-28 23:00:14.488 [main] log4j-footerTest started
+[INFO ] 2022-07-28 23:00:15.097 [main] log4j-footerTest passed
+[INFO ] 2022-07-28 23:00:15.099 [main] log4j-brandsTest started
+[INFO ] 2022-07-28 23:00:18.470 [main] log4j-brandsTest passed
+[INFO ] 2022-07-28 23:27:41.136 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-28 23:27:41.262 [main] log4j-starting register test
+[INFO ] 2022-07-28 23:27:49.869 [main] log4j-register test passed
+[INFO ] 2022-07-28 23:27:51.432 [main] log4j-searchTest started
+[INFO ] 2022-07-28 23:27:54.514 [main] log4j-searchTest passed
+[INFO ] 2022-07-28 23:27:54.517 [main] log4j-shopTest started
+[INFO ] 2022-07-28 23:28:05.243 [main] log4j-shopTest passed
+[INFO ] 2022-07-28 23:28:05.246 [main] log4j-stainTest started
+[INFO ] 2022-07-28 23:28:05.620 [main] log4j-stainTest passed
+[INFO ] 2022-07-28 23:28:05.622 [main] log4j-contactTest started
+[INFO ] 2022-07-28 23:28:09.235 [main] log4j-contactTest passed
+[INFO ] 2022-07-28 23:28:09.237 [main] log4j-loginTest started
+[INFO ] 2022-07-28 23:28:15.485 [main] log4j-loginTest passed
+[INFO ] 2022-07-28 23:28:15.487 [main] log4j-slideTest started
+[INFO ] 2022-07-28 23:28:35.880 [main] log4j-slidesTest passed
+[INFO ] 2022-07-28 23:28:35.882 [main] log4j-reviewTest started
+[INFO ] 2022-07-28 23:28:46.968 [main] log4j-reviewTest passed
+[INFO ] 2022-07-28 23:28:46.971 [main] log4j-footerTest started
+[INFO ] 2022-07-28 23:28:47.654 [main] log4j-footerTest passed
+[INFO ] 2022-07-28 23:28:47.658 [main] log4j-brandsTest started
+[INFO ] 2022-07-28 23:28:52.065 [main] log4j-brandsTest passed
+[INFO ] 2022-07-29 07:46:55.771 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-29 07:46:56.049 [main] log4j-starting register test
+[INFO ] 2022-07-29 07:47:06.348 [main] log4j-register test passed
+[INFO ] 2022-07-29 07:47:08.655 [main] log4j-searchTest started
+[INFO ] 2022-07-29 07:47:12.116 [main] log4j-searchTest passed
+[INFO ] 2022-07-29 07:47:12.120 [main] log4j-shopTest started
+[INFO ] 2022-07-29 07:47:35.298 [main] log4j-shopTest passed
+[INFO ] 2022-07-29 07:47:35.305 [main] log4j-stainTest started
+[INFO ] 2022-07-29 07:47:35.982 [main] log4j-stainTest passed
+[INFO ] 2022-07-29 07:47:35.986 [main] log4j-contactTest started
+[INFO ] 2022-07-29 07:47:39.938 [main] log4j-contactTest passed
+[INFO ] 2022-07-29 07:47:39.944 [main] log4j-loginTest started
+[INFO ] 2022-07-29 07:47:50.275 [main] log4j-loginTest passed
+[INFO ] 2022-07-29 07:47:50.279 [main] log4j-slideTest started
+[INFO ] 2022-07-29 07:48:11.157 [main] log4j-slidesTest passed
+[INFO ] 2022-07-29 07:48:11.160 [main] log4j-reviewTest started
+[INFO ] 2022-07-29 07:48:17.868 [main] log4j-reviewTest passed
+[INFO ] 2022-07-29 07:48:17.870 [main] log4j-footerTest started
+[INFO ] 2022-07-29 07:48:18.641 [main] log4j-footerTest passed
+[INFO ] 2022-07-29 07:48:18.644 [main] log4j-brandsTest started
+[INFO ] 2022-07-29 07:48:24.294 [main] log4j-brandsTest passed
+[INFO ] 2022-07-29 08:17:44.095 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-29 08:17:44.286 [main] log4j-reviewTest started
+[INFO ] 2022-07-29 08:17:56.329 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-29 08:18:00.347 [main] log4j-reviewTest started
+[INFO ] 2022-07-29 08:18:32.151 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-29 08:18:35.778 [main] log4j-reviewTest started
+[INFO ] 2022-07-29 08:18:41.874 [main] log4j-reviewTest passed
+[INFO ] 2022-07-29 08:19:02.099 [main] log4j-intializing driver and browser
+[INFO ] 2022-07-29 08:19:02.344 [main] log4j-starting register test
+[INFO ] 2022-07-29 08:19:10.146 [main] log4j-register test passed
+[INFO ] 2022-07-29 08:19:11.817 [main] log4j-searchTest started
+[INFO ] 2022-07-29 08:19:15.001 [main] log4j-searchTest passed
+[INFO ] 2022-07-29 08:19:15.005 [main] log4j-shopTest started
+[INFO ] 2022-07-29 08:19:27.825 [main] log4j-shopTest passed
+[INFO ] 2022-07-29 08:19:27.829 [main] log4j-stainTest started
+[INFO ] 2022-07-29 08:19:28.269 [main] log4j-stainTest passed
+[INFO ] 2022-07-29 08:19:28.275 [main] log4j-contactTest started
+[INFO ] 2022-07-29 08:19:31.840 [main] log4j-contactTest passed
+[INFO ] 2022-07-29 08:19:31.848 [main] log4j-loginTest started
+[INFO ] 2022-07-29 08:19:39.011 [main] log4j-loginTest passed
+[INFO ] 2022-07-29 08:19:39.013 [main] log4j-slideTest started
+[INFO ] 2022-07-29 08:19:49.032 [main] log4j-slidesTest passed
+[INFO ] 2022-07-29 08:19:50.557 [main] log4j-reviewTest started
+[INFO ] 2022-07-29 08:19:55.725 [main] log4j-reviewTest passed
+[INFO ] 2022-07-29 08:19:55.727 [main] log4j-footerTest started
+[INFO ] 2022-07-29 08:19:56.469 [main] log4j-footerTest passed
+[INFO ] 2022-07-29 08:19:56.475 [main] log4j-brandsTest started
+[INFO ] 2022-07-29 08:20:01.413 [main] log4j-brandsTest passed
+[INFO ] 2022-07-29 17:55:36.323 [main] Log4j-intializing driver and browser
+[INFO ] 2022-07-29 17:55:36.378 [main] Log4j-starting register test
+[INFO ] 2022-07-29 17:55:42.993 [main] Log4j-register test passed
+[INFO ] 2022-07-29 17:55:45.296 [main] Log4j-searchTest started
+[INFO ] 2022-07-29 17:55:48.296 [main] Log4j-searchTest passed
+[INFO ] 2022-07-29 17:55:48.301 [main] Log4j-shopTest started
+[INFO ] 2022-07-29 17:56:00.247 [main] Log4j-shopTest passed
+[INFO ] 2022-07-29 17:56:00.251 [main] Log4j-stainTest started
+[INFO ] 2022-07-29 17:56:00.744 [main] Log4j-stainTest passed
+[INFO ] 2022-07-29 17:56:00.746 [main] Log4j-contactTest started
+[INFO ] 2022-07-29 17:56:04.782 [main] Log4j-contactTest passed
+[INFO ] 2022-07-29 17:56:04.786 [main] Log4j-loginTest started
+[INFO ] 2022-07-29 17:56:10.834 [main] Log4j-loginTest passed
+[INFO ] 2022-07-29 17:56:10.837 [main] Log4j-slideTest started
+[INFO ] 2022-07-29 17:56:20.410 [main] Log4j-slidesTest passed
+[INFO ] 2022-07-29 17:56:21.757 [main] Log4j-reviewTest started
+[INFO ] 2022-07-29 17:56:26.645 [main] Log4j-reviewTest passed
+[INFO ] 2022-07-29 17:56:26.646 [main] Log4j-footerTest started
+[INFO ] 2022-07-29 17:56:27.274 [main] Log4j-footerTest passed
+[INFO ] 2022-07-29 17:56:27.276 [main] Log4j-brandsTest started
+[INFO ] 2022-07-29 17:56:30.015 [main] Log4j-brandsTest passed
+[INFO ] 2022-07-29 17:57:57.977 [main] Log4j-intializing driver and browser
+[INFO ] 2022-07-29 17:57:58.025 [main] Log4j-starting register test
+[INFO ] 2022-07-29 17:58:04.814 [main] Log4j-register test passed
+[INFO ] 2022-07-29 18:07:40.003 [main] Log4j-intializing driver and browser
+[INFO ] 2022-07-29 18:07:40.142 [main] Log4j-starting register test
+[INFO ] 2022-07-29 18:07:49.763 [main] Log4j-register test passed
